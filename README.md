@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! I'm Shereef Elfiky</h1>
 
-<p>👋 Data Analyst | Python, SQL, Power BI, Tableau, Excel | AI-powered data workflows & dashboards</p>
-<p>Transforming large datasets into <b>interactive dashboards</b> that reveal performance trends across <b>e-commerce, retail, HR & real estate</b>. Academic background in <b>Business Information Systems (BIS)</b>. Passionate about using data to drive decisions and efficiency.</p>
+<p><b>Data Analyst specialized in Python, SQL, Power BI, Tableau, and Excel, with strong expertise in leveraging AI tools to automate data workflows, enhance insights generation, and support strategic decision-making. Experienced in handling large datasets and transforming them into precise insights through advanced interactive dashboards that reveal performance trends across e-commerce, retail, HR, and real estate sectors. Possesses a strong analytical mindset and an academic background in Business Information Systems (BIS), with a demonstrated ability to provide data-driven recommendations that enhance operational efficiency and maximize business outcomes.</b></p>
 
 <h3>🛠 Skills & Tools</h3>
 <p>
@@ -22,34 +21,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfikyofficial&layout=compact&theme=radical" />
 </p>
 
-<h3>💼 Open Source Projects</h3>
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 PRs</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="#">Sales Performance Dashboard</a></td>
-      <td><img src="https://img.shields.io/github/stars/elfikyofficial/sales-dashboard?style=flat-square&labelColor=343b41" /></td>
-      <td><img src="https://img.shields.io/github/forks/elfikyofficial/sales-dashboard?style=flat-square&labelColor=343b41" /></td>
-      <td><img src="https://img.shields.io/github/issues/elfikyofficial/sales-dashboard?style=flat-square&labelColor=343b41" /></td>
-      <td><img src="https://img.shields.io/github/issues-pr/elfikyofficial/sales-dashboard?style=flat-square&labelColor=343b41" /></td>
-    </tr>
-    <tr>
-      <td><a href="#">E-commerce Analytics Reports</a></td>
-      <td><img src="https://img.shields.io/github/stars/elfikyofficial/ecom-reports?style=flat-square&labelColor=343b41" /></td>
-      <td><img src="https://img.shields.io/github/forks/elfikyofficial/ecom-reports?style=flat-square&labelColor=343b41" /></td>
-      <td><img src="https://img.shields.io/github/issues/elfikyofficial/ecom-reports?style=flat-square&labelColor=343b41" /></td>
-      <td><img src="https://img.shields.io/github/issues-pr/elfikyofficial/ecom-reports?style=flat-square&labelColor=343b41" /></td>
-    </tr>
-  </tbody>
-</table>
+<h3>📈 Data Analytics Insights</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elfikyofficial&theme=radical&langs_count=8" alt="Coding Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['E-commerce','Retail','HR','Real Estate'],datasets:[{data:[35,25,20,20],backgroundColor:['#FF6384','#36A2EB','#FFCE56','#4BC0C0']}]} }" alt="Field Distribution Chart" width="400"/>
+</p>
 
 <h3>📫 Connect with me</h3>
 <p>
@@ -70,4 +49,4 @@
   </a>
 </p>
 
-<p align="center">💡 Last update automatically refreshed with <b>GitHub stats & latest projects</b>.</p>
+<p align="center">💡 Last update automatically refreshed with <b>GitHub stats & analytics charts</b>.</p>
