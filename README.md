@@ -7,8 +7,10 @@
 <b>
 Data Analyst specialized in Python, SQL, Power BI, Tableau, and Excel, with strong expertise in leveraging AI tools 
 to automate data workflows, enhance insights generation, and support strategic decision-making. 
-Experienced in handling large datasets and building interactive dashboards across 
-E-commerce, Retail, HR, and Real Estate domains.
+Experienced in handling large datasets and transforming them into precise insights through advanced interactive dashboards 
+that reveal performance trends across e-commerce, retail, HR, and real estate sectors. 
+Possesses a strong analytical mindset and an academic background in Business Information Systems (BIS), 
+with a demonstrated ability to provide data-driven recommendations that enhance operational efficiency and maximize business outcomes.
 </b>
 </p>
 
@@ -20,7 +22,7 @@ E-commerce, Retail, HR, and Real Estate domains.
   <li><b>Programming & Tools:</b> Python, SQL, Excel, Power BI, Tableau, Google Looker Studio</li>
   <li><b>Python Libraries:</b> Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Scikit-learn</li>
   <li><b>Business Intelligence:</b> Power Query, Power Pivot, DAX, ETL Processes, Data Modeling</li>
-  <li><b>Data Analysis & Statistics:</b> Regression, Hypothesis Testing, A/B Testing, Descriptive Statistics</li>
+  <li><b>Data Analysis & Statistics:</b> Descriptive Statistics, Regression Analysis, Hypothesis Testing, A/B Testing</li>
   <li><b>Data Engineering Basics:</b> SQL Joins, Data Pipelines, Data Warehousing</li>
 </ul>
 
@@ -34,48 +36,6 @@ E-commerce, Retail, HR, and Real Estate domains.
 
 <hr/>
 
-<h3>💼 Professional Experience</h3>
-
-<p>
-<b>Data Analyst – Tiger Group</b><br/>
-<i>2025 – Present | Cairo, Egypt</i>
-</p>
-
-<ul>
-  <li>Collected, cleaned, and analyzed data across all departments with a strong focus on HR analytics.</li>
-  <li>Built interactive dashboards and KPI reports using Power BI and Excel.</li>
-  <li>Analyzed operational and financial performance to support strategic planning.</li>
-  <li>Delivered data-driven recommendations that improved efficiency and cost control.</li>
-</ul>
-
-<hr/>
-
-<h3>📂 Selected Projects</h3>
-
-<ul>
-  <li>
-    <b>E-Commerce Data Analysis (Python)</b><br/>
-    Customer behavior analysis, sales performance tracking, and promotional impact assessment.
-  </li>
-
-  <li>
-    <b>Retail Sales Dashboards (Excel & Power BI)</b><br/>
-    Multi-table data modeling, KPI tracking, and regional performance analysis.
-  </li>
-
-  <li>
-    <b>London Real Estate Pricing Analysis (Python)</b><br/>
-    Statistical analysis of property prices with market segmentation and hypothesis testing.
-  </li>
-
-  <li>
-    <b>HR Analytics & Workforce Insights (Python)</b><br/>
-    Analysis of 2M+ employee records to identify salary structure, turnover, and experience trends.
-  </li>
-</ul>
-
-<hr/>
-
 <h3>🎓 Courses & Certifications</h3>
 
 <ul>
@@ -85,19 +45,8 @@ E-commerce, Retail, HR, and Real Estate domains.
   <li><b>Data Visualization with Seaborn</b> – DataCamp</li>
   <li><b>Introduction to SQL</b> – DataCamp</li>
   <li><b>Introduction to Power BI</b> – DataCamp</li>
+  <li><b>ICDL</b> – Swiss</li>
   <li><b>3-Month Data Analysis Training</b> – Tiger Group</li>
-</ul>
-
-<hr/>
-
-<h3>🤝 Soft Skills</h3>
-
-<ul>
-  <li>Analytical Thinking & Problem Solving</li>
-  <li>Data Storytelling & Business Communication</li>
-  <li>Attention to Detail</li>
-  <li>Time Management & Organization</li>
-  <li>Team Collaboration & Stakeholder Support</li>
 </ul>
 
 <hr/>
@@ -105,19 +54,23 @@ E-commerce, Retail, HR, and Real Estate domains.
 <h3>📫 Connect with me</h3>
 
 <p>
-  <a href="https://github.com/elfikyofficial" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
   <a href="https://www.linkedin.com/in/shreif-elfiky-b94639306" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.tiktok.com/@elfikyofficial" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100004303429024&ref=_ig_profile_ac" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/shrief_el.fiky/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.tiktok.com/@elfikyofficial?is_from_webapp=1&sender_device=pc" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-💡 <b>Focused on real-world analytics, business impact, and continuous learning</b>
+💡 <b>Data-driven mindset • Business-focused analytics • Continuous learning</b>
 </p>
