@@ -1,6 +1,6 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
-  Hey! I'm Sherif Mohy Elfiky
+  Hey I'm Sherif Elfiky
 </h1>
 
 <p>
