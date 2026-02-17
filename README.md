@@ -5,10 +5,7 @@
 
 <p>
 <b>
-Data Analyst at Tiger Development with hands-on experience in transforming raw data into actionable business insights. 
-Specialized in Python, SQL, Power BI, Tableau, and Excel, with strong expertise in data modeling, KPI engineering, and dashboard automation. 
-Passionate about leveraging AI tools and advanced analytics techniques to support strategic decision-making, optimize operations, 
-and drive measurable business growth across E-commerce, Retail, Real Estate, and Marketing domains.
+Data Analyst specialized in Python, SQL, Power BI, Tableau, and Excel, with strong expertise in leveraging AI tools to automate data workflows, enhance insights generation, and support strategic decision-making. Experienced in handling large datasets and transforming them into precise insights through advanced interactive dashboards that reveal performance trends across e-commerce, retail, HR, and real estate sectors. Possesses a strong analytical mindset and an academic background in Business Information Systems (BIS), with a demonstrated ability to provide data-driven recommendations that enhance operational efficiency and maximize business outcomes.
 </b>
 </p>
 
