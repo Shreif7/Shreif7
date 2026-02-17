@@ -1,70 +1,132 @@
-# 📊 Hi, I'm Sherif Mohy Elfiky! 
-### **Data Analyst | Insights Architect | Hackathon Winner 🏆**
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
+  Hey! I'm Sherif Mohy Elfiky
+</h1>
 
-> "Transforming raw data into strategic gold through Python, SQL, and interactive storytelling."
+<p>
+<b>
+Data Analyst at Tiger Development with hands-on experience in transforming raw data into actionable business insights. 
+Specialized in Python, SQL, Power BI, Tableau, and Excel, with strong expertise in data modeling, KPI engineering, and dashboard automation. 
+Passionate about leveraging AI tools and advanced analytics techniques to support strategic decision-making, optimize operations, 
+and drive measurable business growth across E-commerce, Retail, Real Estate, and Marketing domains.
+</b>
+</p>
 
----
+<hr/>
 
-## 🚀 About Me
-I am a **Data Analyst** with a Business Information Systems (BIS) background, specializing in turning complex datasets into actionable business intelligence. My expertise lies in bridging the gap between technical data processing and high-level strategic decision-making. 
+<h3>💼 Professional Experience</h3>
 
-* 🥇 **1st Place Winner** at the Orange Digital Center Data Analysis Hackathon (2026).
-* 📈 Expert in building high-impact dashboards for **E-commerce, Retail, HR, and Real Estate**.
-* 🐍 Advanced Pythonista focused on **Automation, EDA, and Predictive Analytics**.
+<p>
+<b>Data Analyst – Tiger Development</b><br/>
+2025 – Present | Cairo, Egypt
+</p>
 
----
+<ul>
+  <li>Collect, clean, and validate multi-departmental data to ensure accuracy and reliability.</li>
+  <li>Transform operational and financial data using Excel, Power BI, and Python.</li>
+  <li>Build interactive dashboards and KPI reports for executive-level insights.</li>
+  <li>Analyze trends and performance metrics to support cost reduction and performance improvement strategies.</li>
+  <li>Develop forecasting and analytical models to enhance data-driven decision-making.</li>
+</ul>
 
-## 🛠️ My Data Toolkit
+<hr/>
 
-### 🐍 Programming & Data Science
-* **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Scikit-learn), SQL.
-* **Techniques:** Descriptive Statistics, Regression Analysis, Hypothesis Testing, A/B Testing, Predictive Analysis.
+<h3>🚀 Featured Projects</h3>
 
-### 📊 Business Intelligence & Visualization
-* **Tools:** Power BI, Tableau, Google Looker Studio, Excel (Power Query & Pivot).
-* **Skills:** DAX, Data Modeling, ETL Pipelines, Dashboard Automation, Data Warehousing.
+<ul>
+  <li>
+    <b>🏆 Marketing & Customer Analytics – 1st Place Hackathon</b><br/>
+    Built an end-to-end SQL & Power BI solution analyzing engagement, conversion, ROI, and retention risk. 
+    Designed executive-ready dashboards and delivered revenue-focused business recommendations. 
+    Secured 1st Place at Orange Digital Center Egypt (2026).
+  </li>
+  
+  <li>
+    <b>📊 E-Commerce Data Analysis Using Python</b><br/>
+    Analyzed customer behavior, product performance, and campaign impact. 
+    Identified sales decline root causes and key revenue drivers through statistical analysis.
+  </li>
+  
+  <li>
+    <b>📈 Retail Sales Analytics & Dashboards (Excel)</b><br/>
+    Worked with 8 interconnected tables, performed data integration and modeling, 
+    and built 3 dynamic dashboards highlighting KPIs, customer insights, and product performance.
+  </li>
+  
+  <li>
+    <b>🏙 London Real Estate Pricing Analysis (Python)</b><br/>
+    Conducted statistical pricing analysis using UK Land Registry data. 
+    Identified pricing drivers (location, size, amenities) and developed strategic market insights.
+  </li>
+</ul>
 
-### 💼 Domain Knowledge
-* E-Commerce & Retail Analytics | HR Analytics | Real Estate Market Trends | Marketing ROI.
+<hr/>
 
----
+<h3>🛠 Technical Skills</h3>
 
-## 📂 Featured Projects
+<ul>
+  <li><b>Programming & Tools:</b> Python, SQL, Excel, Power BI, Tableau, Google Looker Studio, PowerPoint</li>
+  <li><b>Python Libraries:</b> Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Scikit-learn</li>
+  <li><b>BI & Data Transformation:</b> Power Query, Power Pivot, DAX, ETL, Data Modeling, Dashboard Automation, Data Warehousing, SQL Joins, Data Pipelines</li>
+  <li><b>Statistics & Analytics:</b> Descriptive Statistics, Regression, Hypothesis Testing, Probability, Predictive Analysis, A/B Testing</li>
+  <li><b>Domains:</b> E-Commerce, Retail, Real Estate, Marketing, Business Analytics, Operations</li>
+</ul>
 
-### 🏆 [Marketing & Customer Analytics (Hackathon Winner)](your-link-here)
-* **Goal:** Solve declining engagement and conversion issues for Orange Digital Center.
-* **Tech:** SQL, Power BI.
-* **Impact:** Engineered KPIs like Retention Risk and ROI; secured **1st Place** for revenue-focused recommendations.
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PowerBI-F2C80F?style=flat-square&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-### 🛒 [E-Commerce Insights & Behavior Analysis](your-link-here)
-* **Goal:** Uncover customer patterns and root causes of seasonal sales drops.
-* **Tech:** Python (Pandas, Seaborn).
-* **Impact:** Identified best/worst selling drivers and optimized promotional campaign strategies.
+<hr/>
 
-### 🏠 [London Real-Estate Pricing Architect](your-link-here)
-* **Goal:** Analyze property market segmentation using UK Land Registry data.
-* **Tech:** Python, Web Scraping (Social Media).
-* **Impact:** Handled missing data via scraping and identified key pricing gaps in prime locations like Kensington & Chelsea.
+<h3>🎓 Education</h3>
 
-### 🛍️ [Retail Sales Executive Dashboard](your-link-here)
-* **Goal:** Integrated 8 interconnected tables to visualize regional performance.
-* **Tech:** Excel, Power Query, Python.
-* **Impact:** Developed 3 dynamic dashboards focusing on Customer Insights and Product Performance.
+<p>
+<b>Bachelor's Degree in Business Information Systems (BIS)</b><br/>
+EGI Academy (El-Gazeera Academy)<br/>
+2021 – 2025 | Mokattam, Egypt
+</p>
 
----
+<hr/>
 
-## 💼 Experience & Education
-* **Data Analyst** @ Tiger Group (Present) - Driving HR and Operational efficiency.
-* **B.S. in Business Information Systems (BIS)** @ EGI Academy.
-* **Data Analysis Diploma** @ Instant Software.
+<h3>📜 Certifications</h3>
 
----
+<ul>
+  <li>🥇 1st Place Winner – Data Analytics Hackathon, Orange Digital Center Egypt (2026)</li>
+  <li>3-Month Data Analysis Training – Tiger Development (2025)</li>
+  <li>Data Analysis Diploma – Instant Software</li>
+  <li>Multiple DataCamp Certifications (Python, SQL, Pandas, Seaborn, Power BI)</li>
+  <li>ICDL – Swiss</li>
+</ul>
 
-## 📫 Let's Connect!
-* 📧 **Email:** [mhyshryf@gmail.com](mailto:mhyshryf@gmail.com)
-* 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-* 📂 **Portfolio:** [Check out my Repositories](#)
+<hr/>
 
----
-### ⚡ Fun Fact
-I don't just "clean" data; I interrogate it until it confesses the truth about your business performance. 🕵️‍♂️
+<h3>🤝 Soft Skills</h3>
+
+<p>
+Critical Thinking • Data Storytelling • Problem Solving • Business Understanding • 
+Attention to Detail • Time Management • Team Collaboration
+</p>
+
+<hr/>
+
+<h3>📫 Connect with me</h3>
+
+<p>
+  <a href="mailto:mhyshryf@gmail.com">
+    📧 Email
+  </a> |
+  <a href="https://www.linkedin.com/in/shreif-elfiky-b94639306" target="_blank">
+    LinkedIn
+  </a> |
+  <a href="https://github.com/Shreif7" target="_blank">
+    GitHub
+  </a>
+</p>
+
+<p align="center">
+💡 <b>Turning Data into Decisions • Business-Focused Analytics • Continuous Growth</b>
+</p>
