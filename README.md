@@ -33,9 +33,13 @@ Data Analyst specialized in Python, SQL, Power BI, Tableau, and Excel, with stro
 <ul>
   <li>
     <b>🏆 Marketing & Customer Analytics – 1st Place Hackathon</b><br/>
-    Built an end-to-end SQL & Power BI solution analyzing engagement, conversion, ROI, and retention risk. 
-    Designed executive-ready dashboards and delivered revenue-focused business recommendations. 
-    Secured 1st Place at Orange Digital Center Egypt (2026).
+    Delivered a high-impact, end-to-end Marketing & Customer Analytics solution using SQL & Power BI to uncover root causes behind
+declining engagement and conversion performance.
+•Engineered advanced KPIs (Conversion Rate, Engagement, ROI, Retention Risk) through robust data cleaning, transformation, and business-driven
+metric design.
+•Developed an executive-ready interactive dashboard translating complex data into clear, strategic decision-making insights.
+•Secured 1st Place in a Data Analysis Hackathon at Orange Digital Center Egypt for presenting actionable, revenue-focused business
+recommendations..
   </li>
   
   <li>
