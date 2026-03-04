@@ -44,20 +44,30 @@ recommendations..
   
   <li>
     <b>📊 E-Commerce Data Analysis Using Python</b><br/>
-    Analyzed customer behavior, product performance, and campaign impact. 
-    Identified sales decline root causes and key revenue drivers through statistical analysis.
+    Conducted full Python-based analysis of e-commerce datasets to uncover customer behavior, product trends, and campaign performance.
+•Designed and calculated KPIs for sales, engagement, and retention, identifying low-performing products and periods of sales decline.
+•Cleaned, transformed, and engineered features using Pandas and NumPy to create reliable, analysis-ready datasets.
+•Visualized insights with Matplotlib and Seaborn and delivered actionable recommendations to optimize marketing, product strategy, and customer
+experience.
   </li>
   
   <li>
     <b>📈 Retail Sales Analytics & Dashboards (Excel)</b><br/>
-    Worked with 8 interconnected tables, performed data integration and modeling, 
-    and built 3 dynamic dashboards highlighting KPIs, customer insights, and product performance.
+    Worked with datasets composed of 8 interconnected tables, performing data cleaning, integration, and exploration using Python to uncover
+accurate insights into customer behavior and product interactions.
+•Completed the analysis using Excel, leveraging Pivot Tables and Power Query to identify performance patterns, highlight key issues, and pinpoint
+high-attraction regions for targeted marketing efforts.
+•Developed 3 dynamic dashboards showcasing Key Indicators, Customer Insights, and Product Performance to support strategic decision- making
+and enhance the effectiveness of digital campaigns.
   </li>
   
   <li>
     <b>🏙 London Real Estate Pricing Analysis (Python)</b><br/>
-    Conducted statistical pricing analysis using UK Land Registry data. 
-    Identified pricing drivers (location, size, amenities) and developed strategic market insights.
+    •Conducted advanced Python-based statistical analysis of London residential property data to uncover market segmentation, premium pricing
+drivers, and outlier effects.
+•Engineered key features such as price per square meter and market tier classification to support robust valuation insights.
+•Detected and analyzed high-value outliers (luxury properties) to assess their impact on mean pricing and market statistics.
+•Delivered actionable insights on the influence of location, property type, size, and amenities to guide strategic real estate decisions..
   </li>
 </ul>
 
